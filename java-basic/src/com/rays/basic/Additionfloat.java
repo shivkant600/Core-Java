@@ -12,9 +12,9 @@ public class Additionfloat {
 		Additionfloat sc=new Additionfloat();
 		
 		
-		float c=sc.num(1.2, 1.6);
+		//float c=sc.num(1.2, 1.6);
 	
-		System.out.println(c);
+	//	System.out.println(c);
 		
 	}
 	}

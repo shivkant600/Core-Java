@@ -1,9 +1,9 @@
 package com.rays.basic;
 
 public class Practise {
-	public int divide(int a,int b,) {
-		div=a/b;
-		return div;
+	public int div(int a, int b) {
+		a=a/b;
+		return div(0, 0);
 		
 	}
 	
@@ -14,7 +14,7 @@ public class Practise {
 		Practise m=new Practise();
 		
 		int c;
-		c=m.divide(10,5);
+		c=m.div(10,5);
 		System.out.println(c);
 		
 	

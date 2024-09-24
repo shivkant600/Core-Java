@@ -1,8 +1,8 @@
 package com.rays.basic;
 
 public class Shivk {
-	public float choud(float a,float b) {
-		return a+b;
+	public float choud(double d,double e) {
+		return 0 ;
 	}
 	public static void main(String[]args) {
 		Shivk m=new Shivk();
