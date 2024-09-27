@@ -9,9 +9,7 @@ public class bankDeposite {
 		 this.number=number;
 	 }
 	 
-	 
 	 public String getnumber() {
-		 
 		return this.number;
 	 }
 

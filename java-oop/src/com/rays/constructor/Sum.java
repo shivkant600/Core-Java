@@ -15,5 +15,11 @@ public class Sum {
 	public Sum(int c,int d,int e) {
 		
 		System.out.println("sum of three="+(c+d+e));
+		
 	}
-}
+		
+	public Sum(String a) {
+		System.out.println(a);
+		}
+	}
+

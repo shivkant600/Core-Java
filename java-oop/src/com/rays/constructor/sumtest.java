@@ -9,5 +9,6 @@ public class sumtest {
 	
 	Sum S2=new Sum(2,4,5);
 
+	
 }
 }
