@@ -3,6 +3,9 @@ package com.rays.inheritance;
 public class Shape {
     private String colour;
 	private int borderwith;
+	
+	
+	
 	public String getColour() {
 		return colour;
 	}
