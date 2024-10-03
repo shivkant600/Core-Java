@@ -15,6 +15,7 @@ public class ShapetestARRAY {
 	s[2]=new Rectangle();
 	
 	
+	//
 	Circle c=(Circle)s[0];
 	c.setRadius(5);
 	
