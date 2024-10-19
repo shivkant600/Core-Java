@@ -12,8 +12,8 @@ public class Failfast {
 	 List l =new ArrayList();
 	 
 	 l.add(5);
-	 
-	l.add(10);
+	 l.add(10);
+	
 	l.add('d');
 	l.add("kgff");
 	
@@ -31,6 +31,9 @@ public class Failfast {
            
            
            System.out.println("=============");
+           
+           
+           
            Vector v = new Vector();
            
            v.add(55) ;
